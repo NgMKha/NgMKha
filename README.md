@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**NgMKha/NgMKha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm NgMKha 👋
 
-Here are some ideas to get you started:
+### Open-source Contributor • Bounty Hunter • Frontend & Automation Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I help improve open-source projects by fixing bugs, polishing UI flows, writing clean PRs, and shipping focused solutions with clear verification.
+
+</div>
+
+---
+
+## 🚀 What I do
+
+- 🛠️ Fix frontend bugs and UI/UX issues
+- ⚡ Improve React / Next.js interfaces
+- 🧪 Verify changes with lint, tests, screenshots, and demo videos
+- 🤖 Use AI-assisted workflows carefully to speed up open-source contribution
+- 🎯 Focus on small, clean, reviewable pull requests
+
+---
+
+## 🧩 Current focus
+
+```txt
+Open Source Bounties
+Frontend Issues
+React / Next.js
+TypeScript
+Automation
+GitHub Workflows
+Clean PR Delivery
